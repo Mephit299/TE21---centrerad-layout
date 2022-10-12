@@ -1,0 +1,18 @@
+body{
+    background-color: #152759;
+    color: #f9f9f9;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: #d8dbe2;
+    
+}
+nav > a {
+    font-weight: 500;
+    text-decoration: none;
+}
+a:hover{
+    color: #b7bdcb;
+}
